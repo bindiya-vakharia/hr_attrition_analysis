@@ -64,7 +64,7 @@ Derived business categories included:
 
 SQL was used to validate the dataset, calculate workforce KPIs, and perform employee attrition analysis.
 
-Key analyses included:
+Key analysis included:
 
 **Data Validation**
 
@@ -97,10 +97,82 @@ All SQL queries used in this project are available in the `/sql` folder.
 
 **Dashboard 1: Executive Attrition Overview**
 
-Provides 
+Provides a high-level summary of workforce turnover through:
+
+- Workforce KPI cards
+- Department-level attrition analysis
+- Job role attrition analysis
+- Executive insights and recommendations
+- Interactive employee segmentation filters
+
+**Dashboard 2: Attrition Driver Analysis**
+
+Explores factors contributing to employee turnover through:
+
+- Overtime analysis
+- Compensation analysis
+- Tenure analysis
+- Job satisfaction analysis
+- Interactive employee segmentation filters
+
+### Dashboard Screenshots
+
+#### Executive Attrition Overview
+![Executive Dashboard](screenshots/dashboard_1_executive_overview.png)
+
+
+#### Attrition Driver Analysis
+![Driver Dashboard](screenshots/dashboard_2_attrition_drivers.png)
+
 ## 8. Key Findings
+
+- Employee attrition remains a significant workforce challenge, with approximately one in six employees leaving the organisation.
+- Attrition is concentrated within specific departments and job roles rather than being evenly distributed across the workforce.
+- Employees working overtime experience substantially higher attrition rates compared to employees with standard work schedules.
+- Lower-income employee groups demonstrate higher turnover rates than higher-income employees.
+- Employees within their first few years (0-2 years) of employment exhibit the highest attrition levels.
+- Lower job satisfaction scores are associated with increased employee turnover risk.
+
 ## 9. Business Recommendations
+
+- Prioritize retention initiatives within departments and job roles experiencing elevated turnover.
+- Review overtime practices and workload allocation in high-risk employee groups.
+- Strengthen onboarding and mentoring programs for early-tenure employees.
+- Assess compensation competitiveness for employee groups with higher attrition rates.
+- Monitor employee satisfaction metrics proactively to identify retention risks before turnover occurs.
+
 ## 10. Skills Demonstrated
+
+**Technical Skills**
+
+- SQL Querying
+- PostgreSQL
+- Tableau Dashboard Development
+- Data Validation
+- Data Cleaning
+- KPI Development
+- Data Visualization
+
+**Analytical Skills**
+
+- Workforce Analytics
+- Employee Segmentation
+- Attrition Analysis
+- Root Cause Analysis
+- Business Problem Solving
+
+**Business Skills**
+
+- Stakeholder-Focused Reporting
+- Insight Generation
+- Executive Dashboard Design
+- Data-Driven Decision Making
+
 ## 11. Project Outcomes
 
+This project demonstrates the end-to-end analytics workflow, from data preparation and SQL-based analysis to dashboard development and business recommendations.
+
+The analysis successfully identified workforce segments with elevated attrition risk and provided actionable insights that can support employee retention strategies, workforce planning initiatives, and HR decision-making.
+
+Through this project, SQL and Tableau were leveraged to transform employee data into meaningful business insights and executive-level reporting.
 
